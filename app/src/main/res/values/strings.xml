@@ -1,21 +1,31 @@
 <resources>
     <string name="app_name">My Bio</string>
-    <string name="text">"OBAMA BARACK né le 4 août 1961 à Honolulu, est un homme d'État américain. Il est le 44ᵉ président des
-        États-Unis, en fonction du 20 janvier 2009 au 20 janvier 2017 "
-    </string>
-    <string name="title">"OBAMA BARACK"
-    </string>
-    <string name="text2">"ABDELKADER IBN MUHIEDDINE ussi connu comme l'émir Abdelkader, ou Abdelkader El Djezairi, né le 6 septembre 1808 à El Guettana, dans la Régence d'Alger, et mort le 26 mai 1883 à Damas, alors dans l'Empire ottoman et dans l'actuelle Syrie, est un émir, chef religieux et militaire algérien, qui mène une lutte contre la conquête de l'Algérie par la France au milieu du XIXe siècle. "
-    </string>
-    <string name="title2">"ABDELKADER IBN MUHIEDDINE"
-    </string>
-    <string name="text3">"Joanne Rowling plus connue sous les noms de plume J. K. Rowlingb et Robert Galbraith, est une romancière et scénariste anglaise née le 31 juillet 1965 dans l’agglomération de Yate, dans le Gloucestershire du Sud. Elle doit sa notoriété mondiale à la série Harry Potter, dont les romans traduits en près de quatre-vingts langues ont été vendus à plus de 500 millions d'exemplaires dans le monde. "
-    </string>
-    <string name="title3">J. K. Rowling</string>
-    <string name="text4">"Elif Shafak, née le 25 octobre 1971 à Strasbourg de parents turcs, est une écrivaine turque.
+    <string-array name="title_tab">
+        <item name="title">"OBAMA BARACK"
+        </item>
+        <item name="title2">"ABDELKADER IBN MUHIEDDINE"
+        </item>
+        <item name="title3">J. K. Rowling</item>
+        <item name="title4">"Elif Shafak"
+        </item>
 
-        Primée et best-seller en Turquie, Elif Şafak écrit ses romans aussi bien en turc qu'en anglais. Elle mêle dans ses romans les traditions romanesques occidentale et orientale, donnant naissance à une œuvre à la fois « locale » et universelle. Féministe engagée, cosmopolite, humaniste et imprégnée par le soufisme et la culture ottomane, Elif Şafak défie ainsi par son écriture toute forme de bigoterie et de xénophobie. Elle vit et travaille à Londres. "
-    </string>
-    <string name="title4">"Elif Shafak"
-    </string>
+    </string-array>
+    <string-array name="bio_tab">
+
+        <item name="text">"OBAMA BARACK né le 4 août 1961 à Honolulu, est un homme d'État américain. Il est le 44ᵉ président des
+            États-Unis, en fonction du 20 janvier 2009 au 20 janvier 2017 "
+        </item>
+
+        <item name="text2">"ABDELKADER IBN MUHIEDDINE ussi connu comme l'émir Abdelkader, ou Abdelkader El Djezairi, né le 6 septembre 1808 à El Guettana, dans la Régence d'Alger, et mort le 26 mai 1883 à Damas, alors dans l'Empire ottoman et dans l'actuelle Syrie, est un émir, chef religieux et militaire algérien, qui mène une lutte contre la conquête de l'Algérie par la France au milieu du XIXe siècle. "
+        </item>
+
+        <item name="text3">"Joanne Rowling plus connue sous les noms de plume J. K. Rowlingb et Robert Galbraith, est une romancière et scénariste anglaise née le 31 juillet 1965 dans l’agglomération de Yate, dans le Gloucestershire du Sud. Elle doit sa notoriété mondiale à la série Harry Potter, dont les romans traduits en près de quatre-vingts langues ont été vendus à plus de 500 millions d'exemplaires dans le monde. "
+        </item>
+
+        <item name="text4">"Elif Shafak, née le 25 octobre 1971 à Strasbourg de parents turcs, est une écrivaine turque.
+
+            Primée et best-seller en Turquie, Elif Şafak écrit ses romans aussi bien en turc qu'en anglais. Elle mêle dans ses romans les traditions romanesques occidentale et orientale, donnant naissance à une œuvre à la fois « locale » et universelle. Féministe engagée, cosmopolite, humaniste et imprégnée par le soufisme et la culture ottomane, Elif Şafak défie ainsi par son écriture toute forme de bigoterie et de xénophobie. Elle vit et travaille à Londres. "
+        </item>
+    </string-array>
+
 </resources>
